@@ -29,7 +29,7 @@ Analiza procedury (która początkowo miała być tylko ćwiczeniem programistyc
 
 Scena dość szybko zareagował, widząc kod playera praktycznie 1:1 wziętego z Music Assemblera poinformowała Pawła kto jest prawdziwym autorem "pożyczonej" procedury. Paweł przyjął to do wiadomości i poradził krytykom po prostu z tym żyć ;) o czym możemy przeczytać w notce dołączonej do **VT 1.1**.
 
-**Voicetracker** miał bardzo szybko okres deweloperski, od wersji 1.0 do 4.0 upłynęło mniej więcej 1,5 roku. Wersja 3.0 i 4.0 była wydawana w Polsce komercyjnie, artykuł o wersji **3.0** oraz reklamę wersji **4.0** mogliśmy spotkać na łamach **64 Plus 4 & Amiga** w roku 1991. Na podziw i uwagę (według mnie) zasługuje fakt, ze aż do wersji 4.0 **Polonus** całą pracę wykonał za pomocą programu monitora, dopier mało znana odsłona 5 programu została zakodowana w **Turbo Assemblerze**. Program był anglojęzyczny i miał ambicję sprzedażowe na zachodzie Europy - nie wiem ostatecznie czy miało to miejsce.
+**Voicetracker** miał bardzo szybki okres deweloperski, od wersji 1.0 do 4.0 upłynęło mniej więcej 1,5 roku. Wersja 3.0 i 4.0 była wydawana w Polsce komercyjnie, artykuł o wersji **3.0** oraz reklamę wersji **4.0** mogliśmy spotkać na łamach **64 Plus 4 & Amiga** w roku 1991. Na podziw i uwagę (według mnie) zasługuje fakt, ze aż do wersji 4.0 **Polonus** całą pracę wykonał za pomocą programu monitora, dopier mało znana odsłona 5 programu została zakodowana w **Turbo Assemblerze**. Program był anglojęzyczny i miał ambicję sprzedażowe na zachodzie Europy - nie wiem ostatecznie czy miało to miejsce.
 
 ### Reyn Ouwehand
 
