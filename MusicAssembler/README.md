@@ -43,7 +43,7 @@ Pierwszą czynnością byłą [deasemblacja](https://sjp.pl/deasemblacja) jakieg
 
 Efekt można zobaczyć tutaj: [4-Mat AY-Teaser.sid $c000](https://github.com/zbyti/mad-pascal-playground/blob/master/src/c64/music-collection/doc/4mat-ay-c000.txt).
 
-Z mojego punktu widzenia wystarczyła zmiana tylko starszego bajtu playera, nie miałem ambicji pisać czegoś z prawdziwego zdarzenia a tylko na swoje bieżące, poznawcze potrzeby, byłe to też okazja sprawdzić [PHP](https://www.php.net) jako język skryptowy powłoki :D
+Z mojego punktu widzenia wystarczyła zmiana tylko starszego bajtu playera, nie miałem ambicji pisać czegoś z prawdziwego zdarzenia a tylko na swoje bieżące, poznawcze potrzeby, była to też okazja sprawdzić [PHP](https://www.php.net) jako język skryptowy powłoki :D
 
 Owoc mojej pracy można zobaczyć tutaj: [brzydki kod](https://github.com/zbyti/mad-pascal-playground/blob/master/src/c64/music-collection/assets/converter).
 
