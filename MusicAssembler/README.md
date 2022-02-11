@@ -103,7 +103,7 @@ asm
   cli
 end;
 ```
-Do wywoływania procedury playera nie skorzystałem z przerwania tylko czekam na określoną linię rastra dlatego aby symulować lepiej przerwanie `IRQ` na czas grania wyłączam przerwania niemaskowalne, które mogły by zakłócić granie muzyki, wydaje mi się to nadmiarowe ale taką miałem fantazję.
+Do wywoływania procedury playera nie skorzystałem z przerwania tylko czekam na określoną linię rastra dlatego aby symulować lepiej przerwanie `IRQ` na czas grania wyłączam przerwania maskowalne, które mogły by zakłócić granie muzyki, wydaje mi się to nadmiarowe ale taką miałem fantazję.
 
 Zrzucanie rejestru `X` gdy korzystam z procedur w języku maszynowym jest przy pracy z **Mad Pascalem** ważne bo wykorzystuje on ten rejestr do swoich mrocznych spraw związanych z programowym stosem itd.
 
