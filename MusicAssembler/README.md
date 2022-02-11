@@ -21,7 +21,7 @@ Ostatnia wersja programu datuje się na rok 1994 i jest w wersji **1.4**.
 
 ### Voicetracker
 
-Paweł [Polonus](https://csdb.dk/scener/?id=823) Sołtysiński to znany koder z Trójmiasta na polskiej scenie C64, współredaktor magazynu Kebab za młodu równie arogancki co zdolny a dziś równie milczący co utalentowany - to moja opinia ;)
+Paweł [Polonus](https://csdb.dk/scener/?id=823) Sołtysiński to znany koder ze Szczecina na polskiej scenie C64, współredaktor magazynu Kebab za młodu równie arogancki co zdolny a dziś równie milczący co utalentowany - to moja opinia ;)
 
 Polonus w okolicach roku 1989/1990 napotkał ciekawą procedurę odgrywającą muzykę stworzoną przez [Reyna Ouwehanda](https://csdb.dk/scener/?id=8051) będącego wtedy członkiem grupy [Scoop](https://csdb.dk/group/?id=442) stąd błędnie przypisał autorstwo kodu komuś z tej grupy.
 
