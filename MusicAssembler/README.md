@@ -13,7 +13,7 @@ Player (procedura odgrywająca muzykę) i edytor jest autorstwa: Marco [MC](http
 
 Player (według słów jednego z autorów) w momencie powstania był przełomowy pod względem muzycznym, do tego odznaczał się niskim wykorzystaniem zasobów systemowych.
 
-Pierwsze wersje programu **Music Assembler ** były narzędziem "wewnętrznym"  i mogli korzystać z niego tylko zaprzyjaźnieni z autorami programu muzycy. **CSDB** datuje wydanie wersji oznaczonej numerem **1.0** na rok 1989. 
+Pierwsze wersje programu **Music Assembler** były narzędziem "wewnętrznym"  i mogli korzystać z niego tylko zaprzyjaźnieni z **The Dutch USA-Team**. **CSDB** datuje wydanie wersji oznaczonej numerem **1.0** na rok 1989. 
 
 **Music Assembler** w późniejszym czasie był dostępny także komercyjnie, np. w Zachodnich Niemczech, przyniósł chłopakom na tyle wysoki dochód, że zakupili swoje pierwsze 16-bitowce.
 
