@@ -25,7 +25,7 @@ Paweł [Polonus](https://csdb.dk/scener/?id=823) Sołtysiński to znany koder ze
 
 Polonus w okolicach roku 1989/1990 napotkał ciekawą procedurę odgrywającą muzykę stworzoną przez [Reyna Ouwehanda](https://csdb.dk/scener/?id=8051) będącego wtedy członkiem grupy [Scoop](https://csdb.dk/group/?id=442) stąd błędnie przypisał autorstwo kodu komuś z tej grupy.
 
-Analiza procedury (która początkowo miała być tylko ćwiczeniem programistycznym) doprowadziła go do napisania i wypuszczenia na scenę pierwszego polskiego edytora muzycznego na **C64**  w oparciu o "znalezioną" procedurę i to pomimo niezrozumienia do końca tego co ona "robi" ale jak sam wówczas napisał: on jest programistą a nie muzykiem.
+Analiza procedury (która początkowo miała być tylko ćwiczeniem programistycznym) doprowadziła go do napisania i wypuszczenia na scenę (w roku 1990) pierwszego polskiego edytora muzycznego na **C64**  w oparciu o "znalezioną" procedurę i to pomimo niezrozumienia do końca tego co ona "robi" ale jak sam wówczas napisał: on jest programistą a nie muzykiem.
 
 Scena dość szybko zareagował, widząc kod playera praktycznie 1:1 wziętego z Music Assemblera poinformowała Pawła kto jest prawdziwym autorem "pożyczonej" procedury. Paweł przyjął to do wiadomości i poradził krytykom po prostu z tym żyć ;) o czym możemy przeczytać w notce dołączonej do **VT 1.1**.
 
@@ -33,7 +33,7 @@ Scena dość szybko zareagował, widząc kod playera praktycznie 1:1 wziętego z
 
 ### Reyn Ouwehand
 
-Muzyk który pośrednio zainspirował swoją pracą **Polonusa** jest autorem sporej części "tunes" dołączonych do **VT 4.0**. Dopiero po latach odkryłem, przesłuchując "randomowo" [HVSC](https://www.hvsc.c64.org), że to **Reyn** był odpowiedzialny za jedne z moich pierwszych zachwytów nad możliwościami dźwiękowymi układu [SID](https://pl.wikipedia.org/wiki/MOS_Technology_SID). Ku mojemu zdziwieniu odkryłem, że jako (chyba jedyny) nie komponował on z użyciem **VT** a był dołączony do komercyjnego wydania tego edytora.
+Muzyk który pośrednio zainspirował swoją pracą **Polonusa** jest autorem sporej części "tunes" dołączonych do **VT 4.0**. Dopiero po latach odkryłem, przesłuchując "randomowo" [HVSC](https://www.hvsc.c64.org), że to **Reyn** był odpowiedzialny za jedne z moich pierwszych zachwytów nad możliwościami dźwiękowymi układu [SID](https://pl.wikipedia.org/wiki/MOS_Technology_SID). Ku mojemu zdziwieniu wygląda też, że jako (chyba) jedyny nie komponował z użyciem **VT** chociaż był dołączony do komercyjnego wydania tego edytora.
 
 Jako, że po latach postanowiłem nauczyć się "jak SID gra" to dla własnej przyjemności postanowiłem zobaczyć ulubione kawałki wczytane do macierzystego **Music Assembler**, a że **MA** wczytywał tylko muzykę pod adres `$C000` szybko okazało się, że potrzebuję ripper **PSID** i procedurę relokującą pod wymagany adres.
 
