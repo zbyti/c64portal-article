@@ -146,7 +146,7 @@ else
   exit 1
 fi
 ```
-Jak widzimy wynikowy plik pakuję jeszcze za pomocą **exomizera** aby głównie skompresować puste przestrzenie w pliku.
+Jak widzimy wynikowy plik pakuję jeszcze za pomocą **exomizera**, robię to mając głównie na celu skompresować puste przestrzenie w pliku.
 
 ## The End
 
